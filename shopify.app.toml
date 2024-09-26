@@ -3,7 +3,7 @@
 client_id = "d94073072b77008cc571139c79c4ddaa"
 name = "test-webhook-app"
 handle = "test-webhook-app-7"
-application_url = "https://boom-behavioral-babes-p.trycloudflare.com"
+application_url = "https://chemicals-childhood-proxy-closest.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "read_draft_orders,read_orders,read_products,write_products"
 
 [auth]
 redirect_urls = [
-  "https://boom-behavioral-babes-p.trycloudflare.com/auth/callback",
-  "https://boom-behavioral-babes-p.trycloudflare.com/auth/shopify/callback",
-  "https://boom-behavioral-babes-p.trycloudflare.com/api/auth/callback"
+  "https://chemicals-childhood-proxy-closest.trycloudflare.com/auth/callback",
+  "https://chemicals-childhood-proxy-closest.trycloudflare.com/auth/shopify/callback",
+  "https://chemicals-childhood-proxy-closest.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
